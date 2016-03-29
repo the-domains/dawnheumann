@@ -1,7 +1,7 @@
 name: dawnheumann
 favicon: null
-layout_spectrum: 0.9473343128338456
-typography_spectrum: 0.5401066390331835
+layout_spectrum: 0.25291
+typography_spectrum: 0.92224
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.26539205107837915
-  lightness: 0.9654923258349299
+    - '#555555'
+    - '#000000'
+    - '#333333'
+    - '#666666'
+    - '#808080'
+  brandStrength: 1
+  lightness: 1
   saturation: 0.7606841379310936
-  rhythmicContrast: 0.3467982036527246
+  rhythmicContrast: 0.25
 purpose: []
